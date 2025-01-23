@@ -11,6 +11,6 @@ Steps to launch:
 
 For launching tests please use "npm run test" command
 
-Recommended node.js version is 16. But if you have the latest version, try to launch it. 
-It should work on latest versions too:) If no, please use node.js 16
+Recommended node.js version is 20. But if you have the latest version, try to launch it. 
+It should work on latest versions too:) If no, please use node.js 20
 
