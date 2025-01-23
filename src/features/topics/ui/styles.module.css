@@ -1,0 +1,6 @@
+.menu {
+    padding: 16px 0;
+    width: 20%;
+    height: 100vh;
+    overflow-y: auto;
+}
